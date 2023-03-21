@@ -1,1 +1,8 @@
-
+{
+  "Join",
+  "Inner Join",
+  "Left Join",
+  "Outer Join",
+  "Cross Join",
+  "Self Join"
+}
