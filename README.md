@@ -54,3 +54,13 @@ Repository JSON  ╗
 Add file         ╣
 Create new file  ╝
 ```
+14.Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+15.На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
+>choose the bug_report.json :arrow_right: 
+>:pencil2: Edit this file.
+16.Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+17.Синхронизировать внешний и локальный репозиторий JSON
+```
+git fetch
+git pull
+```
