@@ -62,6 +62,7 @@ Create new file  ╝
 >:pencil2: Edit this file.
 
 16.Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+
 17.Синхронизировать внешний и локальный репозиторий JSON
 ```
 git fetch
