@@ -2,16 +2,53 @@
 ===
 1. Создать внешний репозиторий c названием JSON - [JSON](https://github.com/TorontoPinokio/JSON)
 2. Клонировать репозиторий JSON на локальный компьютер. 
- ```
- Git clone
- ```
+```
+git clone
+```
 3.Внутри локального JSON создать файл “new.json”. 
 ```
-Touch new.json
+touch new.json
 ```
 4. Добавить файл под гит.
 ```
-Git add new.json
+git add new.json
 ```
-
-
+5.Закоммитить файл
+```
+git commit -m "File Json 1"
+```
+6.Отправить файл на внешний GitHub репозиторий.
+```
+git push
+```
+7.Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON.
+```
+nano new.json
+```
+8. Отправить изменения на внешний репозиторий.
+```
+git commit -am "Json 2"
+git push
+```
+9. Создать файл preferences.json.
+```
+touch preferences.json
+````
+10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.
+```
+nano preferences.json
+```
+11.Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
+```
+touch sklls.json
+```
+12.Отправить сразу 2 файла на внешний репозиторий.
+```
+git add .
+git commit -m "Interests 1"
+git push
+```
+13.На веб интерфейсе создать файл bug_report.json.
+```
+Repository JSON :leftwards_arrow_with_hook:
+Add file
