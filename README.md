@@ -1,2 +1,2 @@
-:one: # JSON #
+:one: JSON 
  ---
