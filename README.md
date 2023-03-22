@@ -9,7 +9,7 @@ git clone
 ```
 touch new.json
 ```
-4. Добавить файл под гит.
+4.Добавить файл под гит.
 ```
 git add new.json
 ```
@@ -50,5 +50,7 @@ git push
 ```
 13.На веб интерфейсе создать файл bug_report.json.
 ```
-Repository JSON :leftwards_arrow_with_hook:
-Add file
+Repository JSON  ╗
+Add file         ╣
+Create new file  ╝
+```
