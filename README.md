@@ -55,6 +55,7 @@ Add file         ╣
 Create new file  ╝
 ```
 14.Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+
 15.На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
 >choose the bug_report.json 
 >:arrow_right: 
