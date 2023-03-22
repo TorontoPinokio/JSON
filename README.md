@@ -5,6 +5,13 @@
  ```
  Git clone
  ```
-6.Внутри локального JSON создать файл “new.json”. `Touch new.json`.
+3.Внутри локального JSON создать файл “new.json”. 
+```
+Touch new.json
+```
+4. Добавить файл под гит.
+```
+Git add new.json
+```
 
 
