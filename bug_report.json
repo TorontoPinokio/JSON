@@ -4,5 +4,6 @@
   "Left Join",
   "Outer Join",
   "Cross Join",
-  "Self Join"
+  "Self Join",
+  "full join"
 }
